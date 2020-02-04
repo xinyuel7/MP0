@@ -1,1 +1,38 @@
 /* Your CSS here. */
+body{
+    background: center;
+}
+div{
+    border: 30px;
+    padding: 30px;
+    margin: 55px;
+}
+#container{
+    width: 80%;
+    background-color: bisque;
+}
+h1{
+    color:palevioletred;
+}
+h4{
+    color:palevioletred;
+}
+.TimesNewRoman{
+    font-family:"Times New Roman";
+}
+.centered{
+    text-align: center;
+}
+img{
+    height: 150px;
+    width: 150px;
+}
+a{
+    color:purple;
+}
+#description{
+    text-align: left;
+    padding: 10px 10px;
+    margin-left: 25%;
+    margin-right: 25%;
+}
